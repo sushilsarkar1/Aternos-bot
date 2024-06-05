@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "H2N.DEV",
+    "username": "CYBER",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "HaiLord1207.aternos.me",
-    "port": 30869,
+    "ip": "ORCHID_NET.aternos.me",
+    "port": 46159,
     "version": "1.19.3"
   },
 
@@ -36,9 +36,9 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is CYBER ",
         "I want be alone ",
-        "Visit my Youtube page! (https://youtube.com/@H2N_OFFICIAL)"
+        "DIE BABY"
       ]
     },
 
